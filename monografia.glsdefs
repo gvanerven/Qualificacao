@@ -1,0 +1,180 @@
+\ifglsentryexists{UnB}{}%
+{%
+\gls@defglossaryentry{UnB}%
+{%
+name={UnB},%
+sort={UnB},%
+type={acronym},%
+first={Universidade de Brasília\glsspace (UnB)},%
+firstplural={Universidade de Brasílias\glsspace (UnBs)},%
+text={UnB},%
+plural={UnBs},%
+description={Universidade de Brasília},%
+descriptionplural={Universidade de Brasília\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Universidade de Brasília},%
+longplural={Universidade de Brasílias},%
+short={UnB},%
+shortplural={UnBs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BCE}{}%
+{%
+\gls@defglossaryentry{BCE}%
+{%
+name={BCE},%
+sort={BCE},%
+type={acronym},%
+first={Biblioteca Central\glsspace (BCE)},%
+firstplural={Biblioteca Centrals\glsspace (BCEs)},%
+text={BCE},%
+plural={BCEs},%
+description={Biblioteca Central},%
+descriptionplural={Biblioteca Central\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Biblioteca Central},%
+longplural={Biblioteca Centrals},%
+short={BCE},%
+shortplural={BCEs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CIC}{}%
+{%
+\gls@defglossaryentry{CIC}%
+{%
+name={CIC},%
+sort={CIC},%
+type={acronym},%
+first={Departamento de Ciência da Computação\glsspace (CIC)},%
+firstplural={Departamento de Ciência da Computaçãos\glsspace (CICs)},%
+text={CIC},%
+plural={CICs},%
+description={Departamento de Ciência da Computação},%
+descriptionplural={Departamento de Ciência da Computação\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Departamento de Ciência da Computação},%
+longplural={Departamento de Ciência da Computaçãos},%
+short={CIC},%
+shortplural={CICs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CTAN}{}%
+{%
+\gls@defglossaryentry{CTAN}%
+{%
+name={CTAN},%
+sort={CTAN},%
+type={acronym},%
+first={Comprehensive \TeX \ Archive Network\glsspace (CTAN)},%
+firstplural={Comprehensive \TeX \ Archive Networks\glsspace (CTANs)},%
+text={CTAN},%
+plural={CTANs},%
+description={Comprehensive \TeX \ Archive Network},%
+descriptionplural={Comprehensive \TeX \ Archive Network\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Comprehensive \TeX \ Archive Network},%
+longplural={Comprehensive \TeX \ Archive Networks},%
+short={CTAN},%
+shortplural={CTANs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CEP}{}%
+{%
+\gls@defglossaryentry{CEP}%
+{%
+name={CEP},%
+sort={CEP},%
+type={acronym},%
+first={Comissão de Ética Pública\glsspace (CEP)},%
+firstplural={Comissão de Ética Públicas\glsspace (CEPs)},%
+text={CEP},%
+plural={CEPs},%
+description={Comissão de Ética Pública},%
+descriptionplural={Comissão de Ética Pública\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Comissão de Ética Pública},%
+longplural={Comissão de Ética Públicas},%
+short={CEP},%
+shortplural={CEPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CAPES}{}%
+{%
+\gls@defglossaryentry{CAPES}%
+{%
+name={CAPES},%
+sort={CAPES},%
+type={acronym},%
+first={Coordenação de Aperfeiçoamento de Pessoal de Nível Superior\glsspace (CAPES)},%
+firstplural={Coordenação de Aperfeiçoamento de Pessoal de Nível Superiors\glsspace (CAPESs)},%
+text={CAPES},%
+plural={CAPESs},%
+description={Coordenação de Aperfeiçoamento de Pessoal de Nível Superior},%
+descriptionplural={Coordenação de Aperfeiçoamento de Pessoal de Nível Superior\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Coordenação de Aperfeiçoamento de Pessoal de Nível Superior},%
+longplural={Coordenação de Aperfeiçoamento de Pessoal de Nível Superiors},%
+short={CAPES},%
+shortplural={CAPESs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
